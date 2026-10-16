@@ -1,4 +1,4 @@
-# PlacementIQ – Rebuild Guide (your own AWS account)
+# PlacementIQ
 
 Cloud-Based Placement Readiness Analytics System. Fully serverless, costs a few cents.
 
